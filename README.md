@@ -1,5 +1,27 @@
 ## 250 C++ Template
 
+## TODO
+
+1. In main, create an Employee called your name with some made up ID.  Output the Employee data to the display.  
+
+2. Create a pointer variable of type HourlyEmployee.  
+
+3. Create a dynamically allocated HourlyEmployee pointed to by the variable pcHourlyEmployee. Output the HourlyEmployee data to the display.
+
+4. In the terminal, type the command "make valgrind" without the quotes. Do you get any memory leaks? If so, fix the problem.
+
+5. Show me your work.
+
+6. A salaried employee is one that has a yearly salary and gets paid monthly. Create a SalariedEmployee class in SalariedEmployee.h.
+
+7. Implement SalariedEmployee.cpp.
+
+8. Create a dynamically allocated SalariedEmployee pointed to be the variable pcSalariedEmployee. Output the SalariedEmployee data to the display.
+
+9. Run "make valgrind" to make sure you have no memory leaks.
+
+10. Ask the user to enter information for a SalariedEmployee from the terminal. After getting the information, output the information entered to the display.
+
 ## Commands
 
 1. Execute without debugging

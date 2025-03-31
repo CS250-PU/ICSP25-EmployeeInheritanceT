@@ -9,12 +9,11 @@
 //******************************************************************************
 
 #include <iostream>
-#include "../include/SampleClass.h"
+#include "../include/Employee.h"
+#include "../include/HourlyEmployee.h"
 
 int main () {
-  SampleClass cSampleClass;
-
-  std::cout << "Factorial of 1: " << cSampleClass.factorial (0) << std::endl;
+ HourlyEmployee h;
 
   std::cout << "Process Completed" << std::endl;
 
